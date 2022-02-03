@@ -1,8 +1,8 @@
 {
 	"mode": 2,
 	"modeReward": "2",
-	"isInterstitialActive": true,
-	"isRewardActive": true,
+	"isInterstitialActive": false,
+	"isRewardActive": false,
 	"adsPattern": "22",
 	"rewardPattern": "22",
 	"admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
