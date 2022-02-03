@@ -5,9 +5,9 @@
 	"isRewardActive": true,
 	"adsPattern": "22",
 	"rewardPattern": "22",
-	"admob_interstitial": "ca-app",
-	"admob_reward": "ca-app",
-	"unity_interstitial": "",
-	"unity_reward": "",
-	"unity_game_id": ""
+	"admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+	"admob_reward": "ca-app-pub-3940256099942544/5224354917",
+	"unity_interstitial": "Interstitial_Android",
+	"unity_reward": "Rewarded_Android",
+	"unity_game_id": "4595165"
 }
