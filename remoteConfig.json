@@ -1,3 +1,13 @@
 {
- "test": true
+	"mode": 2,
+	"modeReward": "2",
+	"isInterstitialActive": true,
+	"isRewardActive": true,
+	"adsPattern": "22",
+	"rewardPattern": "22",
+	"admob_interstitial": "ca-app",
+	"admob_reward": "ca-app",
+	"unity_interstitial": "",
+	"unity_reward": "",
+	"unity_game_id": ""
 }
